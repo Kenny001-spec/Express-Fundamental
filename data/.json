@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Don joe",
+        "location": "michinga",
+        "gender": "male",
+        "excercise": "football",
+        "marital status": "marries",
+        "language": "english",
+        "hobby": "dancing"
+    },
+    {
+        "name": "Frank dan",
+        "location": "louis ville",
+        "gender": "male",
+        "marital status": "single",
+        "excercise": "Dumbell rows",
+        "language": "spanish",
+        "hobby": "writing"
+    },
+    {
+        "name": "Dylan khan",
+        "location": "texas",
+        "gender": "male",
+        "marital status": "divorced",
+        "excercise": "side planks",
+        "language": "english",
+        "hobby": "cooking"
+    },
+    {
+        "name": "Jhon jim",
+        "location": "texas",
+        "gender": "male",
+        "marital status": "divorced",
+        "excercise": "side planks",
+        "language": "english",
+        "hobby": "blog"
+    },
+    {
+        "name": "kay kash",
+        "location": "michingan",
+        "gender": "male",
+        "marital status": "single",
+        "excercise": "reading",
+        "language": "english",
+        "hobby": "painting"
+    }
+]
